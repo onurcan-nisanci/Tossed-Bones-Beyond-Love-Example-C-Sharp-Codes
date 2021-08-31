@@ -1,5 +1,5 @@
 # About
-* I shared some of the code files of the first my commercial game which is called: **Tossed Bones : Beyond Love**. I finished that game as a solo developer by using **C#** language and **Unity2D game engine**.
+* I shared some of the code files of the my commercial game which is called: **Tossed Bones : Beyond Love**. I finished that game as a solo developer by using **C#** language and **Unity2D game engine**.
 * I handled all 2D physics, rendering, animations, particle-sound effects, level loadings and UIs from the engine.
 * In app-purchases and ads systems implemented to make some bucks! :)
 * **Platforms:** Android and Web browser.
