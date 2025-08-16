@@ -1,5 +1,5 @@
 # About
-* I shared selected source code files from my commercial game: Tossed Bones : Beyond Love, which I developed and released as a solo developer using  **C#** and  **Unity2D**.
+* I shared selected source code files from my commercial game: **Tossed Bones : Beyond Love**, which I developed and released as a solo developer using  **C#** and  **Unity2D**.
 I was responsible for:
 * Implementing 2D physics, rendering, and animations
 * Designing particle effects, sound effects, and UI systems
