@@ -1,11 +1,12 @@
 # About
-* I shared some of the code files of the my commercial game which is called: **Tossed Bones : Beyond Love**. I finished that game as a solo developer by using **C#** language and **Unity2D game engine**.
-* I handled all 2D physics, rendering, animations, particle-sound effects, level loadings and UIs from the engine.
-* In app-purchases and ads systems implemented to make some bucks! :)
+* I shared selected source code files from my commercial game: Tossed Bones : Beyond Love, which I developed and released as a solo developer using  **C#** and  **Unity2D**.
+I was responsible for:
+* Implementing 2D physics, rendering, and animations
+* Designing particle effects, sound effects, and UI systems
+* Managing level loading and overall game architecture
 * **Platforms:** Android and Web browser.
 * **Trailer:** https://www.youtube.com/watch?v=_koWJN3NEIo
-* **Google Play Store:** https://play.google.com/store/apps/details?id=com.OCN.TossedBonesBL
-* **Crazy Games:** https://www.crazygames.com/game/tossed-bones
+* **Play Online:** https://gamaverse.com/tossed-bones-beyond-love-game
 
 ![tossed_bones01](https://user-images.githubusercontent.com/39779689/131336010-64362c4f-4f76-4de4-ad43-aec566fd5f48.png)
 ![tossed_bones02](https://user-images.githubusercontent.com/39779689/131336027-473dff66-aa5a-424b-ba67-d299facf5150.png)
